@@ -32,8 +32,6 @@ def process_results(movie_list):
     """
     Function  that processes the movie result and transform them to a list of Objects
 
-    Args:
-        movie_list: A list of dictionaries that contain movie details
 
     Returns :
         movie_results: A list of movie objects
